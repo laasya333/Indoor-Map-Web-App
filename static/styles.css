@@ -1,0 +1,8 @@
+.my-svg .my-shape {
+    fill: red;
+}
+
+.path:hover {
+    color: red;
+    cursor: pointer;
+  }
